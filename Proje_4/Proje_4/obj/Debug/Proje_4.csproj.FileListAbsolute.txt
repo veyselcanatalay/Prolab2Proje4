@@ -1,0 +1,36 @@
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Proje_4.exe.config
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Proje_4.exe
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Proje_4.pdb
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csprojAssemblyReference.cache
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.Form1.resources
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.Properties.Resources.resources
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.GenerateResource.cache
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.exe
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.pdb
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySql.Data.dll
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Google.Protobuf.dll
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySql.Data.xml
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\veyse\Desktop\Dersler\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.CopyComplete
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Proje_4.exe.config
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Proje_4.exe
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Proje_4.pdb
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\Google.Protobuf.dll
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySql.Data.xml
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csprojAssemblyReference.cache
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.Form1.resources
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.Properties.Resources.resources
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.GenerateResource.cache
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.CopyComplete
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.exe
+C:\Users\veyse\Desktop\Dersler\Ders Notları\2. Sınıf\2. Sınıf 2. Dönem\PROLAB 2\PROLAB 2 Proje 4\Proje_4\Proje_4\obj\Debug\Proje_4.pdb
